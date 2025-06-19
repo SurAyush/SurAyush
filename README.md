@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning about **NLP and LLMs**
 
-- 📝 I regularly write articles on [https://medium.com/@ayushsur26](https://medium.com/@ayushsur26)
-
 - 📫 How to reach me **ayushsur26@gmail.com**
 
 - ⚡ Fun fact **You are only crazy until you succeed, then, you are genius.**
